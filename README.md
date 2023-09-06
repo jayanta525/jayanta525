@@ -3,7 +3,7 @@
 
 ![t](https://media.tenor.com/W527m-M03y8AAAAC/dankata.gif)
 
-![t](https://github.jayg.tech/ping)
+![t](http://do.jayg.tech:8080/ping)
 
 <!--
 **jayanta525/jayanta525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
